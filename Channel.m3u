@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="NBA" tvg-name="NBA" tvg-logo="http://www.2456788.com/tvicon/nba.png" group-title="体育",NBA
+http://143.244.60.97/NBATV/index.m3u8
+#EXTINF:-1,tvg-id="TNT" tvg-name="TNT" tvg-logo="https://panel.budtv-ultra.com/posters/1643411853516.png" group-title="体育",TNT
+http://45.90.105.74:25461/bbv1/4QKmSRxShA/39730
+#EXTINF:-1,tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://logos.xbots.com.mx/168.png" group-title="体育",ESPN
+http://45.90.105.74:25461/bbv1/4QKmSRxShA/2258
+#EXTINF:-1 tvg-id="7183" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%8A%E6%B5%B7%E5%8A%B2%E7%88%86%E4%BD%93%E8%82%B2.png" group-title="体育",劲爆体育
+https://epg.pw/stream/6f1e030ef4cb68f20b307c071b041b0d5df629b86b7f477331d0c3c44f96b1b8.m3u8
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://raw.githubusercontent.com/YueChan/Live/main/NHKSJ.png" group-title="国际",NHK世界
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cna.png" group-title="国际",CNA新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="7183" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/aljazeera.png" group-title="国际",半岛新闻
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="7183" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/TVN.png" group-title="韩国",TVN
+https://epg.pw/stream/513fff80a2e2b999b0360519a2402b6af03d23b5ed9fb03dc04ae5d783e110b7.m3u8 
+#EXTINF:-1 tvg-id="7183" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/TVN.png" group-title="韩国",TVN
+https://epg.pw/stream/7a1d42b90fc90ce0d3c6ae8c4db4c6fe1eeb7fa559119acb7b38b9301ae36859.m3u8 
+#EXTINF:-1 tvg-id="7183" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/One.png" group-title="ONE",ONE
+https://epg.pw/stream/0e7c1c04911ed19bb49f4445afee4559387af28f3aa8b6c38bf13b199135ea40.m3u8 
+#EXTINF:-1 tvg-id="7183" tvg-logo="https://iptv-pro.github.io/logo/%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1%281%29.png" group-title="黑莓电影",黑莓电影
+https://epg.pw/stream/594d548ace11a326762e3e76d050458a3454de7e7d24ef153662e57341468d4d.m3u8 
+#EXTINF:-1 tvg-id="7183" tvg-logo="https://iptv-pro.github.io/logo/MOMO%E4%BA%B2%E5%AD%90%E5%8F%B0.png" group-title="momo亲子台",momo亲子台
+https://epg.pw/stream/3e8ba61da28d3b963e5f38dcf8204b9aa38dc94e78e66cfb21c30d9d85d7f8f2.m3u8
