@@ -13,9 +13,9 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="7183" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/aljazeera.png" group-title="国际",半岛新闻
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="7183" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/TVN.png" group-title="韩国",TVN
+#EXTINF:-1 tvg-id="7183" tvg-logo="https://www.2456788.com/tvicon/tvn.png" group-title="韩国",TVN
 https://epg.pw/stream/513fff80a2e2b999b0360519a2402b6af03d23b5ed9fb03dc04ae5d783e110b7.m3u8 
-#EXTINF:-1 tvg-id="7183" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/TVN.png" group-title="韩国",TVN
+#EXTINF:-1 tvg-id="7183" tvg-logo="https://www.2456788.com/tvicon/tvn.png" group-title="韩国",TVN
 https://epg.pw/stream/7a1d42b90fc90ce0d3c6ae8c4db4c6fe1eeb7fa559119acb7b38b9301ae36859.m3u8 
 #EXTINF:-1 tvg-id="7183" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/One.png" group-title="ONE",ONE
 https://epg.pw/stream/0e7c1c04911ed19bb49f4445afee4559387af28f3aa8b6c38bf13b199135ea40.m3u8 
