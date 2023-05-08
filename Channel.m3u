@@ -13,19 +13,25 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="7183" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/aljazeera.png" group-title="国际",半岛新闻
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="7183" tvg-logo="https://iptv-pro.github.io/logo/FOX%20.png" group-title="国际",FOX
+https://epg.pw/stream/2c1ebd99942d6fb6600ab7e67f146df5615e3e5610d53ca7daa5c05b8cb296e5.ctv
 #EXTINF:-1 tvg-id="7183" tvg-logo="https://www.2456788.com/tvicon/tvn.png" group-title="韩国",TVN
 https://epg.pw/stream/513fff80a2e2b999b0360519a2402b6af03d23b5ed9fb03dc04ae5d783e110b7.m3u8 
 #EXTINF:-1 tvg-id="7183" tvg-logo="https://www.2456788.com/tvicon/tvn.png" group-title="韩国",TVN
 https://epg.pw/stream/7a1d42b90fc90ce0d3c6ae8c4db4c6fe1eeb7fa559119acb7b38b9301ae36859.m3u8 
-#EXTINF:-1 tvg-id="7183" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/One.png" group-title="ONE",ONE
+#EXTINF:-1 tvg-id="7183" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/One.png" group-title="韩国",ONE
 https://epg.pw/stream/0e7c1c04911ed19bb49f4445afee4559387af28f3aa8b6c38bf13b199135ea40.m3u8 
-#EXTINF:-1 tvg-id="7183" tvg-logo="https://iptv-pro.github.io/logo/%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1%281%29.png" group-title="黑莓电影",黑莓电影
+#EXTINF:-1 tvg-id="7183" tvg-logo="https://iptv-pro.github.io/logo/%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1%281%29.png" group-title="电影",黑莓电影
 https://epg.pw/stream/594d548ace11a326762e3e76d050458a3454de7e7d24ef153662e57341468d4d.m3u8 
-#EXTINF:-1 tvg-id="7183" tvg-logo="https://iptv-pro.github.io/logo/MOMO%E4%BA%B2%E5%AD%90%E5%8F%B0.png" group-title="momo亲子台",momo亲子台
+#EXTINF:-1 tvg-id="7183" tvg-logo="https://iptv-pro.github.io/logo/MOMO%E4%BA%B2%E5%AD%90%E5%8F%B0.png" group-title="动漫",momo亲子台
 http://211.23.114.106:8504/http/116.50.42.18:8088/hls/70/812/ch40.m3u8
+#EXTINF:-1 tvg-id="7183" tvg-logo="https://iptv-pro.github.io/logo/AXN%E5%8F%B0%E6%B9%BE.png" group-title="动漫",AXN
+https://epg.pw/stream/95e1a7e4e5c6ee74c48ae766038dbe42324edbcc608569ac804aaa616c7acb71.m3u8
 #EXTINF:-1 tvg-id="7183" tvg-logo="https://iptv-pro.github.io/logo/%E5%85%AC%E8%A7%86.png" group-title="公视",公视
 http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
 #EXTINF:-1 tvg-id="7183" tvg-logo="https://iptv-pro.github.io/logo/EUROSPORT.png" group-title="体育",EUROSPORT1 HD
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=506559
 #EXTINF:-1 tvg-id="7183" tvg-logo="https://iptv-pro.github.io/logo/EUROSPORT.png" group-title="体育",EUROSPORT2 HD
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=506560
+#EXTINF:-1 tvg-id="7183" tvg-logo="https://iptv-pro.github.io/logo/Now%20Sports%201.png" group-title="体育",NOW SPORT 1
+https://epg.pw/stream/b284186421e4a2c537b37e51eb2322c5557a35097f0d26dbaf752e661a25130b.ctv
