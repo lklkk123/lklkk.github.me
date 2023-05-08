@@ -25,6 +25,8 @@ https://epg.pw/stream/0e7c1c04911ed19bb49f4445afee4559387af28f3aa8b6c38bf13b1991
 https://epg.pw/stream/594d548ace11a326762e3e76d050458a3454de7e7d24ef153662e57341468d4d.m3u8 
 #EXTINF:-1 tvg-id="7183" tvg-logo="https://iptv-pro.github.io/logo/MOMO%E4%BA%B2%E5%AD%90%E5%8F%B0.png" group-title="动漫",momo亲子台
 http://211.23.114.106:8504/http/116.50.42.18:8088/hls/70/812/ch40.m3u8
+#EXTINF:-1 tvg-id="7183" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%9C%E6%A3%AE%E5%B9%BC%E5%B9%BC.png" group-title="动漫",EBC幼幼
+http://198.16.100.90:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
 #EXTINF:-1 tvg-id="7183" tvg-logo="https://iptv-pro.github.io/logo/AXN%E5%8F%B0%E6%B9%BE.png" group-title="动漫",AXN
 https://epg.pw/stream/95e1a7e4e5c6ee74c48ae766038dbe42324edbcc608569ac804aaa616c7acb71.m3u8
 #EXTINF:-1 tvg-id="7183" tvg-logo="https://iptv-pro.github.io/logo/%E5%85%AC%E8%A7%86.png" group-title="公视",公视
