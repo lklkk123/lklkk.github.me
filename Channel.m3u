@@ -35,3 +35,6 @@ http://185.243.7.13:80/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_tok
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=506560
 #EXTINF:-1 tvg-id="7183" tvg-logo="https://iptv-pro.github.io/logo/Now%20Sports%201.png" group-title="体育",NOW SPORT 1
 https://epg.pw/stream/b284186421e4a2c537b37e51eb2322c5557a35097f0d26dbaf752e661a25130b.ctv
+#EXTINF:-1 tvg-id="7183" tvg-logo="https://www.racingjunk.com/news/wp-content/uploads/2021/01/nbc-sports-logo-vector-638x357.png" group-title="体育",NBC SPORT 
+https://epg.pw/stream/92cdfa34c15b2d48c5eb6d6f9045568d075fa064700794216c182bc6e8dae884.ctv
+
