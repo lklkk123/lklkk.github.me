@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://imboom.ru/images/iptv/iptvp.png" group-title="Спортивные",HK Now Premier Sports 1
+http://185.246.117.196:8888/srv2/104004/mpegts?token=5C3F513LHQQSP6S
+#EXTINF:-1 tvg-logo="http://imboom.ru/images/iptv/iptvp.png" group-title="Спортивные",HK Now Premier Sports 2
+http://185.246.117.196:8888/srv2/104005/mpegts?token=5C3F513LHQQSP6S
+#EXTINF:-1 tvg-logo="http://imboom.ru/images/iptv/iptvp.png" group-title="Спортивные",HK Now Premier Sports 3
+http://185.246.117.196:8888/srv2/104006/mpegts?token=5C3F513LHQQSP6S
+#EXTINF:-1 tvg-logo="http://imboom.ru/images/iptv/iptvp.png" group-title="Спортивные",HK Now Premier Sports 4
+http://185.246.117.196:8888/srv2/104007/mpegts?token=5C3F513LHQQSP6S
+#EXTINF:-1 tvg-logo="http://imboom.ru/images/iptv/iptvp.png" group-title="Спортивные",HK Now Premier Sports 5
+http://185.246.117.196:8888/srv2/104008/mpegts?token=5C3F513LHQQSP6S
+#EXTINF:-1 tvg-logo="http://imboom.ru/images/iptv/iptvp.png" group-title="Спортивные",HK Now Premier Sports 6
+http://185.246.117.196:8888/srv2/104009/mpegts?token=5C3F513LHQQSP6S
+#EXTINF:-1 tvg-logo="http://imboom.ru/images/iptv/iptvp.png" group-title="Спортивные",HK Now Premier Sports 7
+http://185.246.117.196:8888/srv2/104010/mpegts?token=5C3F513LHQQSP6S
+#EXTINF:-1 tvg-logo="http://imboom.ru/images/iptv/iptvp.png" group-title="Спортивные",HK Now Premier Sports 8
+http://185.246.117.196:8888/srv2/104011/mpegts?token=5C3F513LHQQSP6S
+#EXTINF:-1 tvg-logo="http://imboom.ru/images/iptv/iptvp.png" group-title="Спортивные",HK Now Sports 1
+http://185.246.117.196:8888/srv2/104012/mpegts?token=5C3F513LHQQSP6S
+#EXTINF:-1 tvg-logo="http://imboom.ru/images/iptv/iptvp.png" group-title="Спортивные",HK Now Sports 2
+http://185.246.117.196:8888/srv2/104013/mpegts?token=5C3F513LHQQSP6S
+#EXTINF:-1 tvg-logo="http://imboom.ru/images/iptv/iptvp.png" group-title="Спортивные",HK Now Sports 3
+http://185.246.117.196:8888/srv2/104014/mpegts?token=5C3F513LHQQSP6S
+#EXTINF:-1 tvg-logo="http://imboom.ru/images/iptv/iptvp.png" group-title="Спортивные",HK Now Sports 4
+http://185.246.117.196:8888/srv2/104015/mpegts?token=5C3F513LHQQSP6S
+#EXTINF:-1 tvg-logo="http://imboom.ru/images/iptv/iptvp.png" group-title="Спортивные",HK Now Sports 5
+http://185.246.117.196:8888/srv2/104016/mpegts?token=5C3F513LHQQSP6S
+#EXTINF:-1 tvg-logo="http://imboom.ru/images/iptv/iptvp.png" group-title="Спортивные",HK Now Sports 6
+http://185.246.117.196:8888/srv2/104017/mpegts?token=5C3F513LHQQSP6S
+#EXTINF:-1 tvg-logo="http://imboom.ru/images/iptv/iptvp.png" group-title="Спортивные",HK Now Sports 7
+http://185.246.117.196:8888/srv2/104018/mpegts?token=5C3F513LHQQSP6S
